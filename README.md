@@ -9,8 +9,6 @@
 
 <div styLe='display: inline_block'><br/>
 <img align='center alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
-<i class="fa-brands fa-html5"></i>
-<img align='center alt= 'HTML' src="http://www.w3.org/2000/svg" viewBox="0 0 384 512">
 </div><br/>
 
 ## 🙋 Sobre Mim
